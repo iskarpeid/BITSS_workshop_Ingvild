@@ -1,4 +1,4 @@
-INGVILD TESTING LOTS
+HEY JANA WHATS UP
 
 # BITSS Bergen Research Transparency and Reproducibility Workshop
 by [Eva Vivalt](http://www.evavivalt.com)[1]
